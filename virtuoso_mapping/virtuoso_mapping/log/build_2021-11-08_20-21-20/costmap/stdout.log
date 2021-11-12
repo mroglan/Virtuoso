@@ -1,0 +1,29 @@
+-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/build/costmap
+-- Install configuration: ""
+-- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/launch
+-- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/launch/stvl_launch.xml
+-- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/config
+-- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/config/stvl_params.yaml
+-- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/ament_index/resource_index/package_run_dependencies/costmap
+-- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/ament_index/resource_index/parent_prefix_path/costmap
+-- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/environment/ament_prefix_path.sh
+-- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/environment/path.sh
+-- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/environment/path.dsv
+-- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/local_setup.bash
+-- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/local_setup.sh
+-- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/local_setup.zsh
+-- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/local_setup.dsv
+-- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/package.dsv
+-- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/ament_index/resource_index/packages/costmap
+-- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/cmake/costmapConfig.cmake
+-- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/cmake/costmapConfig-version.cmake
+-- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/package.xml

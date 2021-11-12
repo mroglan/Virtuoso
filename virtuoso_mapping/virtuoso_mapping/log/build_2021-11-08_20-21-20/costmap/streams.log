@@ -1,0 +1,33 @@
+[0.006s] Invoking command in '/home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/build/costmap': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/potentialerror/virt_ws/install/virtuoso_processing:/home/potentialerror/virt_ws/install/virtuoso_perception:/home/potentialerror/virt_ws/install/virtuoso_navigation:/home/potentialerror/virt_ws/install/virtuoso_mapping:/home/potentialerror/virt_ws/install/virtuoso_localization:/home/potentialerror/virt_ws/install/virtuoso_controller:/opt/ros/foxy /usr/bin/cmake --build /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/build/costmap -- -j1 -l1
+[0.034s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.057s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.211s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.262s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.264s] -- Added test 'lint_cmake' to check CMake code style
+[0.265s] -- Added test 'xmllint' to check XML markup files
+[0.266s] -- Configuring done
+[0.268s] -- Generating done
+[0.269s] -- Build files have been written to: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/build/costmap
+[0.284s] Invoked command in '/home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/build/costmap' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/potentialerror/virt_ws/install/virtuoso_processing:/home/potentialerror/virt_ws/install/virtuoso_perception:/home/potentialerror/virt_ws/install/virtuoso_navigation:/home/potentialerror/virt_ws/install/virtuoso_mapping:/home/potentialerror/virt_ws/install/virtuoso_localization:/home/potentialerror/virt_ws/install/virtuoso_controller:/opt/ros/foxy /usr/bin/cmake --build /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/build/costmap -- -j1 -l1
+[0.306s] Invoking command in '/home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/build/costmap': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/potentialerror/virt_ws/install/virtuoso_processing:/home/potentialerror/virt_ws/install/virtuoso_perception:/home/potentialerror/virt_ws/install/virtuoso_navigation:/home/potentialerror/virt_ws/install/virtuoso_mapping:/home/potentialerror/virt_ws/install/virtuoso_localization:/home/potentialerror/virt_ws/install/virtuoso_controller:/opt/ros/foxy /usr/bin/cmake --install /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/build/costmap
+[0.313s] -- Install configuration: ""
+[0.313s] -- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/launch
+[0.313s] -- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/launch/stvl_launch.xml
+[0.313s] -- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/config
+[0.313s] -- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/config/stvl_params.yaml
+[0.314s] -- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/ament_index/resource_index/package_run_dependencies/costmap
+[0.314s] -- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/ament_index/resource_index/parent_prefix_path/costmap
+[0.314s] -- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/environment/ament_prefix_path.sh
+[0.314s] -- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/environment/ament_prefix_path.dsv
+[0.314s] -- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/environment/path.sh
+[0.314s] -- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/environment/path.dsv
+[0.315s] -- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/local_setup.bash
+[0.315s] -- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/local_setup.sh
+[0.315s] -- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/local_setup.zsh
+[0.315s] -- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/local_setup.dsv
+[0.315s] -- Installing: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/package.dsv
+[0.316s] -- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/ament_index/resource_index/packages/costmap
+[0.316s] -- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/cmake/costmapConfig.cmake
+[0.317s] -- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/cmake/costmapConfig-version.cmake
+[0.317s] -- Up-to-date: /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/install/costmap/share/costmap/package.xml
+[0.321s] Invoked command in '/home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/build/costmap' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/potentialerror/virt_ws/install/virtuoso_processing:/home/potentialerror/virt_ws/install/virtuoso_perception:/home/potentialerror/virt_ws/install/virtuoso_navigation:/home/potentialerror/virt_ws/install/virtuoso_mapping:/home/potentialerror/virt_ws/install/virtuoso_localization:/home/potentialerror/virt_ws/install/virtuoso_controller:/opt/ros/foxy /usr/bin/cmake --install /home/potentialerror/virt_ws/src/Virtuoso/virtuoso_mapping/virtuoso_mapping/build/costmap
